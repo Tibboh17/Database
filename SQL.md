@@ -15,6 +15,10 @@
     - Used to improve efficiency and performance.
  
 # SQL commands
+<div align="center">
+  <img src="https://github.com/TIBBOH17/Database/assets/121493257/4a590d32-21a5-4e61-b864-eb2310ebcb63" width="50%">
+</div>
+
 - **Data definition language (DDL)**
     - Used to design the database structure.
     - Used to create and modify the database object according to requirements.
