@@ -25,4 +25,4 @@
 - **Data control language (DCL)**
     - Used to manage or grant access to databases.
 - **Transaction control language (TCL)**
-    - Relational engines use TCL to automatically change databases.
+    - Help users manage and control a database’s transactions (changes) to maintain consistency.
