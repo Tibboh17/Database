@@ -35,7 +35,10 @@
     - Used to access data from the database to retrieve or manipulate data.
  
 # Three Level Architecture of Database
-![image](https://github.com/TIBBOH17/Database/assets/121493257/1c016bdc-ee33-439f-bcc2-caef2498caf9)
+<div align="center">
+  <img src="https://github.com/TIBBOH17/Database/assets/121493257/1c016bdc-ee33-439f-bcc2-caef2498caf9" width="50%">
+</div>
+
 - **Physical Level**
     - Internal Level.
     - Describe how data is actually stored in the database.
