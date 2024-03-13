@@ -20,11 +20,11 @@
     - The set of values for a specific attribute.
 - **Tuple**
     - Each row in the relation.
-- **Relation schema**
+- **Relation Schema**
     - The name of the relation with its attributes.
-- **Relation instance**
+- **Relation Instance**
     - A finite set of tuples in the RDBMS system.
-- **Relation key**
+- **Relation Key**
     - Used to identify the rows uniquely or also help in identifying tables.
 - **Degree**
     - The total number of attributes which in the relation.
@@ -34,11 +34,11 @@
     - The value which is not known or unavailable.
  
 # Constraints in Relational Model
-- **Domain constraint**
+- **Domain Constraint**
     - Every domain must contain atomic values.
-- **Entity integrity constraint**
+- **Entity Integrity Constraint**
     - No primary key can take a NULL value.
-- **Referential integrity constraint**
+- **Referential Integrity Constraint**
     - If a given relation refers to a key attribute of a different or same table, then that key must exist in the given relation.
-- **Key constraint (Uniqueness constraint)**
+- **Key Constraint (Uniqueness Constraint)**
     - Every tuple in the relation should be unique.
