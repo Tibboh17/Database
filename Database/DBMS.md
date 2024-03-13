@@ -4,23 +4,23 @@
 - Allows users to create, modify, and query a database, as well as manage the security and access controls for that database.
 
 # Advantages of DBMS
-- **Data organization**
+- **Data Organization**
     - A DBMS allows for the organization and storage of data in a structured manner, making it easy to retrieve and query the data as needed.
-- **Data integrity**
+- **Data Integrity**
     - A DBMS provides mechanisms for enforcing data integrity constraints, such as constraints on the values of data and access controls that restrict who can access the data.
-- **Concurrent access**
+- **Concurrent Access**
     - A DBMS provides mechanisms for controlling concurrent access to the database, to ensure that multiple users can access the data without conflicting with each other.
-- **Data security**
+- **Data Security**
     - A DBMS provides tools for managing the security of the data, such as controlling access to the data and encrypting sensitive data.
-- **Backup and recovery**
+- **Backup and Recovery**
     - A DBMS provides mechanisms for backing up and recovering the data in the event of a system failure.
-- **Data sharing**
+- **Data Sharing**
     - A DBMS allows multiple users to access and share the same data, which can be useful in a collaborative work environment.
 
 # Disadvantages of DBMS
 - **Complexity**
     - A DBMS can be complex to set up and maintain, requiring specialized knowledge and skills.
-- **Performance overhead**
+- **Performance Overhead**
     - The use of a DBMS can add overhead to the performance of an application, especially in cases where high levels of concurrency are required.
 - **Scalability**
     - The use of a DBMS can limit the scalability of an application, since it requires the use of locking and other synchronization mechanisms to ensure data consistency.
