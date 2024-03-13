@@ -27,9 +27,9 @@
     - The data and information that is currently stored in the database at a specific point in time.
 - **Data Constraints**
     - Used to specify rules for data in a table.
-- **Data dictionary (Metadata)**
+- **Data Dictionary (Metadata)**
     - A collection of metadata such as object name, data type, size, classification, and relationships with other data assets.
-- **Data manipulation**
+- **Data Manipulation**
     - Insertion, Deletion, and Updation.
 - **Query**
     - Used to access data from the database to retrieve or manipulate data.
