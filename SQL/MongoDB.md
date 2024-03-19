@@ -6,7 +6,7 @@
 - Binary JSON
 - MongoDB manages data based on BSON.
 - Search and process data rapidly.
-```JSON
+```javascript
 {
     name: "sue,
     age: 26,
@@ -17,7 +17,7 @@
 
 # Create
 - Add new documents to a collection.
-```
+```javascript
 db.users.insertOne(
     {
         name: "sue",
@@ -25,13 +25,11 @@ db.users.insertOne(
     }
 );
 
-db.products.insertMany(
-    [
-        { _id: 13, item: "envelopes", qty: 60 },
-        { _id: 13, item: "stamps", qty: 110 },
-        { _id: 14, item: "packing tape", qty: 38 }
-    ]
-);
+db.products.insertMany([
+    { _id: 13, item: "envelopes", qty: 60 },
+    { _id: 13, item: "stamps", qty: 110 },
+    { _id: 14, item: "packing tape", qty: 38 }
+]);
 ```
 # Read
 - Retrieve documents from a collection.
