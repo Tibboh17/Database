@@ -43,8 +43,8 @@
     - Internal Level.
     - Describe how data is actually stored in the database.
 - **Conceptual Level**
-    - Logical Level
+    - Logical Level.
     - Describe how the database appears to the users conceptually and the relationships between various data tables.
 - **External Level**
-    - View Level
+    - View Level.
     - Shows the relevant database content to the users in the form of views and hides the rest of the data.
