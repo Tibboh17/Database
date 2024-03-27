@@ -14,7 +14,7 @@
     - A collection of SQL statements stores in RDB.
     - Used to improve efficiency and performance.
  
-# How does SQL works?
+# How does SQL work?
 - **Parser**
   - The parser starts by tokenizing, or replacing, some of the words in the SQL statements wuth special symbols.
   - It checks the statement for **correctness** and **Authorization**.
