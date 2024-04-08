@@ -29,7 +29,7 @@ ALTER TABLE my_table DROP COLUMN age;
 # DQL
 - **SELECT**
 ```SQL
-
+SELECT * FROM my_table;
 ```
 
 # DML
@@ -48,9 +48,22 @@ WHERE name = 'Moon';
 DELETE FROM my_table
 WHERE name = 'Moon'
 ```
+
 # DCL
+- **GRANT**
 ```SQL
 ```
+- **REVOKE**
+```SQL
+```
+
 # TCL
+- **COMMIT**
+```SQL
+```
+- **ROLLBACK**
+```SQL
+```
+- **SAVEPOINT**
 ```SQL
 ```
