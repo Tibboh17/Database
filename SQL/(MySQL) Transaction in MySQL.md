@@ -3,7 +3,7 @@
     - One transaction may read not yet committed changes made by other transactions.
 - **READ COMMITED**
     - A transaction can only see changes made by other committed transactions. 
-- **REPEATABLE READ**
+- **REPEATABLE READ (Default Level)**
     - A transaction will see the same data throughout its duration, even if other transactions commit changes to the data.
 - **SERIALIZABLE**
     - All transactions must be executed sequentially.
