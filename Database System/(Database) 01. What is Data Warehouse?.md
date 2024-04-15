@@ -2,6 +2,16 @@
 - A central reprository of information that can be analyzed to make more informed decisions.
 - Data flows into a data warehouse from transactional systemsm, relational databases, and other sources, typically on a regular cadence.
 
+# Types of Data Warehouse
+- **Enterprise Data Warehouse**
+    - EDW.
+    - Serves as a key or central database that facilitates decision-support services throughout the enterprise.
+- **Operational Data Store**
+    - ODS.
+    - In ODS, a data warehouse can be refreshed in real-time, making it best for routine activities.
+- **Data Mart**
+    - A subset of a data warehouse built to maintain a particular department, region, or business unit.
+
 # Features of Data Warehouse
 - **Subject-Oriented**
     - A data warehouse targets on the modeling and analysis of data for decision-makers.
