@@ -13,23 +13,23 @@
     - **NoSQL** has varying levels of support in various database systems.
  
 # Pros and Cons of SQL
-- **Pros of SQL**
+- **Pros**
     - **SQL** is widely understood and supported.
     - **SQL** is extremely useful for simple aggregations over large datasets.
     - **SQL** is extremely useful for setting up simple ETL jobs.
     - **SQL** is well-documented and easy to learn.
-- **Cons of SQL**
+- **Cons**
     - The performance of SQL can be poor on substantial data sets because it requires multiple passes over the data to complete many operations.
     - Debugging SQL can be complicated because it doesn't provide informative error messages.
     - The syntax of SQL tends to be verbose compared with programming languages.
  
 # Pros and Cons of NoSQL
-- **Pros of NoSQL**
+- **Pros**
     - Flexible schema.
     - Usable on distributed infrastructure platforms.
     - Low-cost infrastructure.
     - High availability and throughput.
-- **Cons of NoSQL**
+- **Cons**
     - Less mature technology and difficult to manage.
     - Limited query capabilities.
     - Data inconsistency and poor performance in some complex scenarios.
