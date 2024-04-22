@@ -1,4 +1,4 @@
-# Main differences between SQL and NoSQL
+# Main Differences
 - **Structure**
     - **SQL** databases are table based.
     - **NoSQL** databases can be document-oriented, key-value pairs, or graph structures.
@@ -12,7 +12,7 @@
     - **SQL** is a popular standard language that is well supported by many different database systems.
     - **NoSQL** has varying levels of support in various database systems.
  
-# Pros and cons of SQL
+# Pros and Cons of SQL
 - **Pros of SQL**
     - **SQL** is widely understood and supported.
     - **SQL** is extremely useful for simple aggregations over large datasets.
@@ -23,7 +23,7 @@
     - Debugging SQL can be complicated because it doesn't provide informative error messages.
     - The syntax of SQL tends to be verbose compared with programming languages.
  
-# Pros and cons of NoSQL
+# Pros and Cons of NoSQL
 - **Pros of NoSQL**
     - Flexible schema.
     - Usable on distributed infrastructure platforms.
