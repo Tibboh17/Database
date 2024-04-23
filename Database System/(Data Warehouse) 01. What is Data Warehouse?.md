@@ -1,6 +1,6 @@
 # Data Warehouse
 - A central reprository of information that can be analyzed to make more informed decisions.
-- Data flows into a data warehouse from transactional systemsm, relational databases, and other sources, typically on a regular cadence.
+- Data flows into a data warehouse from transactional systems, relational databases, and other sources, typically on a regular cadence.
 
 # Types of Data Warehouse
 - **Enterprise Data Warehouse**
