@@ -50,7 +50,7 @@
     - Basically, data stored above data.
     - Used for extraction and loading process, warehouse, management process, and query management process.
 - **End User Access Tool**
-    - consists of analysis, reporting, and mining.
+    - Consists of analysis, reporting, and mining.
     - By using end-user access tools, users can link with the warehouse.
  
 <div align=center>
