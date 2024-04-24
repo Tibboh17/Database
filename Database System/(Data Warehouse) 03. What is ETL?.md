@@ -11,6 +11,13 @@
 - **Loading**
     - ETL tool moves the transformed data from the staging area into the target data warehouse.
 
+# Data Pipeline vs. ETL
+- **Data Pipeline**
+    - A broad term encompassing any process that moves data from one source to another.
+- **ETL**
+    - A type of data pipeline that focuses on individual batches of data for a specific purpose.
+    - Transformation may or may not be involved in other data pipelines, but it is always present in ETL process.
+
 # ELT
 - Extract, Load, Transform.
 - Loads data directly into the target system before processing it.
