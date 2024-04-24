@@ -57,7 +57,7 @@
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210326232234/dw.png", width=70%>
 </div>
 
-# Benefits of Data Warehouse
+# Advantages of Data Warehouse
 - Informed decision making.
 - Consolidated data from many sources.
 - Historical data analysis.
