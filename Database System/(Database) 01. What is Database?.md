@@ -5,7 +5,7 @@
 # Database vs. Spreadsheet
 - **Database**
     - Designed to hold much larger collections of organized information.
-    - Allow multiple users at the same time to quickly and securely access and query the data using highly complex logic and language.
+    - Allows multiple users at the same time to quickly and securely access and query the data using highly complex logic and language.
 - **Speadsheet**
     - Originally designed for one user.
     - Great for a single user or small number of users who don’t need to do a lot of incredibly complicated data manipulation.
