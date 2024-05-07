@@ -23,7 +23,7 @@
 - **Relation Schema**
     - The name of the relation with its attributes.
 - **Relation Instance**
-    - A finite set of tuples in the RDBMS system.
+    - A finite set of tuples in RDBMS.
 - **Relation Key**
     - Used to identify the rows uniquely or also help in identifying tables.
 - **Degree**
