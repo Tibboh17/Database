@@ -31,19 +31,34 @@
 - Indicate missing or undefined data.
 
 # Features of Relational Model
-- **No Duplicate Tuples:** Each row (tuple) in a table is unique.
-- **Order of Tuples:** The sequence of rows does not affect the data.
-- **Attribute Domain:** The domain of an attribute does not determine the order of values.
-- **Distinct Attribute Names:** Each column (attribute) has a unique name.
-- **Atomic Values:** Each cell in a table holds a single, indivisible value.
-- **Distinct Relation Names:** Each table (relation) has a unique name within the database.
+#### No Duplicate Tuples
+- Each row (tuple) in a table is unique.
 
-## Constraints in the Relational Model
-- **Domain Constraint:** Ensures each attribute domain contains atomic values.
-- **Entity Integrity Constraint:** No primary key can be NULL.
-- **Referential Integrity Constraint:** Ensures that values in one table reference valid values in another table.
-- **Key Constraint (Uniqueness Constraint):** Ensures each tuple in a relation is unique.
+#### Order of Tuples
+- The sequence of rows does not affect the data.
 
----
+#### Attribute Domain
+- The domain of an attribute does not determine the order of values.
 
-This markdown is refined for clarity and readability, suitable for sharing on your blog. Feel free to adjust formatting or add further details as needed!
+#### Distinct Attribute Names
+- Each column (attribute) has a unique name.
+
+#### Atomic Values
+- Each cell in a table holds a single, indivisible value.
+
+#### Distinct Relation Names
+- Each table (relation) has a unique name within the database.
+
+# Constraints in Relational Model
+
+#### Domain Constraint
+- Ensures each attribute domain contains atomic values.
+
+#### Entity Integrity Constraint
+-  No primary key can be NULL.
+
+#### Referential Integrity Constraint
+- Ensures that values in one table reference valid values in another table.
+
+#### Key Constraint (Uniqueness Constraint)
+- Ensures each tuple in a relation is unique.
